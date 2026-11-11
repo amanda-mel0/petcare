@@ -1,0 +1,10 @@
+petshop_pro.db
+petshop_pro.db-shm
+petshop_pro.db-wal
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+__pycache__/
+*.py[cod]
+.env
+.env.*
